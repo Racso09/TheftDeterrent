@@ -55,7 +55,7 @@ Esta opción viene incluída en el [script de instalación](https://github.com/J
 ### Post-instalación
 1. Reiniciar (recomendado, opcional)
 2. Ejecutar en la terminal el comando ```theftdeterrentclient``` para verificar que se instaló.
-3. Ir a la configuración del programa (dentro del mismo) y fijar el servidor a `citd.dgp.educ.ar`. Si con ese servidor no funcionó (probablemente porque tu computadora no es una Juana Manso), intentá con `tds.educacion.gob.ar`.
+3. Ir a la configuración del programa (dentro del mismo) y fijar el servidor a `citd.dgp.educ.ar`. Si con ese servidor no funcionó (probablemente porque tu computadora no es una Juana Manso), podés intentar con `tds.educacion.gob.ar` o con `td.alu.bue.edu.ar`.
 
 Acá lo configurás:
 
