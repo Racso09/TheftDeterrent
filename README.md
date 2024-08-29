@@ -9,7 +9,7 @@ Links de descarga para Theft Deterrent (Agent, Client, Guardian, Daemon) e instr
 4. Repetir el paso 2.
 5. Reiniciás la computadora.
 6. Una vez ya prendió, se debería abrir el programa automáticamente.
-7. Vas a la parte de configuración, y ponés para que el servidor sea `citd.dgp.educ.ar`. Si con ese servidor no funcionó, intentá con `tds.educacion.gob.ar`.
+7. Vas a la parte de configuración, y ponés para que el servidor sea `citd.dgp.educ.ar`. Si con ese servidor no funcionó, podés intentar con `tds.educacion.gob.ar` o con `td.alu.bue.edu.ar`.
 
 ## Huayra Linux
 Funciona en Huayra 5 y Huayra 6, pero no en Huayra 6.5. Para esta versión, seguir las instrucciones para Debian.
